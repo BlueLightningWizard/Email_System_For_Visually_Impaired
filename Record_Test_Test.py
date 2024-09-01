@@ -142,9 +142,9 @@ for i in range(msg['Paragraph_Count']):
 print(msg['Closing'] + ',')
 print(msg['Sender_FName'], msg['Sender_LName'])
     
-email_sender = 'yohanrajumavely@hotmail.com'
-email_password = 'JesusChrist'
-email_receiver = 'yohanmavely@gmail.com'
+email_sender = ''
+email_password = ''
+email_receiver = ''
 
 email_subject = msg['Subject']
 
